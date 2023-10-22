@@ -11,9 +11,9 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 "Hicimos" un juego en python con unos amigos. Aca esta el [repo](https://github.com/Juanuwu/Jueguito-test/tree/master) y tambien hice la un juego con los stickers de los profesores [Repo](https://github.com/El-vertedero-de-Fabo/Gamenem)
 
-<p align="left"><a href="https://github.com/Fabo-High-School/PLTL494"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-High-School&repo=PLTL494&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabo-High-School/Gamenem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-High-School&repo=Gamenem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabo-High-School/MATLAB"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-High-School&repo=MATLAB&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
+<p align="left"><a href="https://github.com/Fabo-High-School/PLTL494"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-High-School&repo=PLTL494&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabo-High-School/Gamenem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-High-School&repo=Gamenem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabo-High-School/MATLAB"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-High-School&repo=MATLAB&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
 </p>
 
 ---
