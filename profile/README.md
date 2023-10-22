@@ -1,12 +1,22 @@
-## Hi there 👋
+# High School Fabo 
 
-<!--
 
-**Here are some ideas to get you started:**
+### 👾 Quinto Tecnicatura en Electónica 2018
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice una calculadora en Visual Basic (Perdi el codigo) y muchas cosas con Arduino
+
+---
+
+### 👽 Sexto Tecnicatura en Electónica 2019
+
+"Hicimos" un juego en python con unos amigos. Aca esta el [repo](https://github.com/Juanuwu/Jueguito-test/tree/master) y tambien hice la un juego con los stickers de los profesores [Repo](https://github.com/El-vertedero-de-Fabo/Gamenem)
+
+
+---
+
+### 😎 Septimo Tecnicatura en Electónica 2020
+
+<p align="left"><a href="https://github.com/Fabian-Martinez-Rincon/Keypad"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Keypad&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Lock"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Lock&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Transform-Pokemon-Resolution"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Transform-Pokemon-Resolution&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
+</p>
