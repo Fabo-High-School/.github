@@ -1,4 +1,8 @@
+<div align='center'>
+
 # High School Fabo 
+
+</div>
 
 ![skate](https://github.com/Fabo-High-School/.github/assets/55964635/a75f6afa-e1f6-4d9c-8101-c58e0b1af5af)
 
@@ -25,12 +29,12 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 ---
 
-### Septimo Tecnicatura en Electónica 2020
+### Septimo Tecnicatura en Electónica 2020 Modo Pandemia
 
 <p align="left"><a href="https://github.com/Fabian-Martinez-Rincon/Keypad"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Keypad&theme=react&bg_color=1F222E&title_color=FFFFFF&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Lock"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Lock&theme=react&bg_color=1F222E&title_color=FFFFFF&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Transform-Pokemon-Resolution"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Transform-Pokemon-Resolution&theme=react&bg_color=1F222E&title_color=FFFFFF&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabo-High-School/Old_Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-High-School&repo=Old_Portfolio&theme=react&bg_color=1F222E&title_color=FFFFFF&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabo-High-School/Game-of-Life"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-High-School&repo=Game-of-Life&theme=react&bg_color=1F222E&title_color=FFFFFF&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabo-High-School/Java"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-High-School&repo=Java&theme=react&bg_color=1F222E&title_color=FFFFFF&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-
 </p>
