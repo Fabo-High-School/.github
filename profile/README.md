@@ -1,4 +1,3 @@
-<h1 align='center'> High School Fabo </h1>
 
 
 ![skate](https://github.com/Fabo-High-School/.github/assets/55964635/a75f6afa-e1f6-4d9c-8101-c58e0b1af5af)
