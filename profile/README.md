@@ -1,6 +1,6 @@
 <h1 align='center'> High School Fabo </h1>
 
-![skate](https://github.com/Fabo-High-School/.github/assets/55964635/a75f6afa-e1f6-4d9c-8101-c58e0b1af5af)
+![rocky-stallone](https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/87fefa99-70de-4dd4-bb3d-8a4fc0c8f443)
 
 
 ### Quinto Tecnicatura en Electónica 2018
