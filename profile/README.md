@@ -1,12 +1,6 @@
 <h1 align='center'> High School Fabo </h1>
 
-<div align='center'>
-  
-![cristiano-ronaldo-ronaldo](https://github.com/Fabo-High-School/.github/assets/55964635/eb57b9a1-28c8-482c-9d97-a037c458a63c)
-
-
-</div>
-
+Materias/Proyectos que hice a lo largo de la secundaria, no hay cosas taan complejas porque esta aprendiendo muchas cosas basicas pero bueno. En 7mo cuando fue la pandemia recien me puse las pilas
 
 ### Quinto Tecnicatura en Electónica 2018
 
